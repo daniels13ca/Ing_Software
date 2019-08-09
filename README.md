@@ -9,6 +9,7 @@ silvdaniel@gmail.com
 [1. ¿El porqué de la Ingeniería de Software?](https://github.com/daniels13ca/Ing_Software/blob/master/Presentaciones/%5BIngSoft%5D%20Clase%201.pdf)
   * ¿Qué es ingeniería de software?
   * Proyecto del curso
+  
 1. SCRUM y Requerimientos
 3. Casos de uso
 4. Diagrama de flujo
@@ -17,12 +18,7 @@ silvdaniel@gmail.com
 6. Pruebas
 
 
-1. First ordered list item
-2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.
+
 
 ### Bibliografía
 
