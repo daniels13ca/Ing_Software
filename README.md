@@ -10,17 +10,17 @@ silvdaniel@gmail.com
 * ¿Qué es ingeniería de software?
 * Proyecto del curso  
 
-[2. SCRUM y Requerimientos]()
+[2. SCRUM y Requerimientos](https://github.com/daniels13ca/Ing_Software)
 
-[3. Casos de uso]()
+[3. Casos de uso](https://github.com/daniels13ca/Ing_Software)
 
-[4. Diagrama de flujo]()
+[4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
 
-[5. Diagrama de Gantt]()
+[5. Diagrama de Gantt](https://github.com/daniels13ca/Ing_Software)
 
-[6. Diagrama de clases]()
+[6. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
 
-[7. Pruebas]()
+[7. Pruebas](https://github.com/daniels13ca/Ing_Software)
 
 ### Bibliografía
 
