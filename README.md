@@ -9,6 +9,7 @@ silvdaniel@gmail.com
 [1. ¿El porqué de la Ingeniería de Software?](https://github.com/daniels13ca/Ing_Software/blob/master/Presentaciones/%5BIngSoft%5D%20Clase%201.pdf)
 * ¿Qué es ingeniería de software?
 * Proyecto del curso  
+
 [2. SCRUM y Requerimientos]()
 
 [3. Casos de uso]()
@@ -17,9 +18,9 @@ silvdaniel@gmail.com
 
 [5. Diagrama de Gantt]()
 
-[7. Diagrama de clases]()
+[6. Diagrama de clases]()
 
-[6. Pruebas]()
+[7. Pruebas]()
 
 ### Bibliografía
 
