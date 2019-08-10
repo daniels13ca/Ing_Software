@@ -12,15 +12,17 @@ silvdaniel@gmail.com
 
 [2. SCRUM y Requerimientos](https://github.com/daniels13ca/Ing_Software)
 
-[3. Casos de uso](https://github.com/daniels13ca/Ing_Software)
+[3. Gestión de Riesgos](https://github.com/daniels13ca/Ing_Software)
 
-[4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
+[4. Casos de uso](https://github.com/daniels13ca/Ing_Software)
 
-[5. Diagrama de Gantt](https://github.com/daniels13ca/Ing_Software)
+[5. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
 
-[6. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
+[6. Diagrama de Gantt](https://github.com/daniels13ca/Ing_Software)
 
-[7. Pruebas](https://github.com/daniels13ca/Ing_Software)
+[7. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
+
+[8. Pruebas](https://github.com/daniels13ca/Ing_Software)
 
 ### Bibliografía
 
