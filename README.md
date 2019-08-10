@@ -26,3 +26,5 @@ silvdaniel@gmail.com
 
 [Procesos productivos para la producción de juegos de video en Colombia (2010)](https://github.com/daniels13ca/Ing_Software/blob/master/Bibliograf%C3%ADa/ArticuloCCC.pdf)
 
+[Guía metodologica para la gestión de proyectos de juegos de video utilizando BPMN](https://github.com/daniels13ca/Ing_Software/blob/master/Bibliograf%C3%ADa/GuiaMetodologica.pdf)
+
