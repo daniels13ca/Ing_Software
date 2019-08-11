@@ -4,6 +4,8 @@
 Daniel Silva Barrera
 silvdaniel@gmail.com
 
+#### Sistema de calificación y notas
+
 ### Contenidos del curso
 
 [1. ¿El porqué de la Ingeniería de Software?](https://github.com/daniels13ca/Ing_Software/blob/master/Presentaciones/%5BIngSoft%5D%20Clase%201.pdf)
