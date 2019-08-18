@@ -9,23 +9,31 @@ Algunos de sus principios básicos son:
 * **Flexibilidad ante el cambio**: Se debe poder adaptar el plan inicial de manera oportuna y ágil.
 * **Entregables períodicos**: Se debe buscar la entrega temprana y continúa que agregue valor a las necesidades del cliente.
 
-* **SPRINT**: De esta forma se denomina cada una de las iteraciones sobre el proyecto.
+* **Sprint**: De esta forma se denomina cada una de las iteraciones sobre el proyecto.
 
-### Documentos básicos
-
-* Product backlog
-* Sprint baclog
-* Burn Down Chart
+Imagen Sprint
 
 ## Roles en SCRUM
 
-### Comprometidos con el proyecto
+* **Product Owner**: Representa al cliente, define los objetivos y prioriza las funcionalidades en base al cliente
+* **Equipo**: Son los encargados del desarrollo, equipos pequeños con comunicación abierta.
+* **Scrum Master**: Facilita la ejecución del proyecto, propicia la comunicación entre el cliente y los otros miembros del proyecto
 
-* Product Owner
-* Equipo
-* Scrum Master
+### Documentos/herramientas básicas
 
-### Involucrado con el proyecto
+* **Product backlog**: Consiste en una lista priorizada (por el valor que agregan al producto) de los requisitos del cliente respecto al producto final.
 
-* Clientes y usuarios
-* Project managers
+Se puede expresar mediante "Tarjetas de historia de usuario"
+
+Tarjeta de historia
+
+* **Sprint backlog**: Es un subcojunto de las tareas del Product Backlog, deben ser seleccionadas teniendo en cuenta la duración del Srpint, la priorización y la capacidad del equipo.
+
+Imagenes Sprint backlog
+
+* **Burn Down Chart**: Son gráficos que permiten ver la velocidad a la que se estan cumpliendo los objetivos y de esta forma evaluar si se van a cumplir las metas del sprint/proyecto.
+
+Imagenes burn down
+
+
+
