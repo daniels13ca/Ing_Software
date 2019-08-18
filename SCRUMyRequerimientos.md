@@ -47,7 +47,7 @@ Al definir *historia de usuario*, se debe garantizar que esta cumpla con algunas
 
 Posteriormente se puede clasificar en:
 
-#### Requerimientos funcionales
+## Requerimientos funcionales
 
 Describen un comportamiento o función que debe cumplir el software, suelen estar asociados a pantallas específicas, flujos de información, etc. Por ejemplo:
 
@@ -61,7 +61,7 @@ Describen un comportamiento o función que debe cumplir el software, suelen esta
 
 **Requeriemiento mal formulado**: Quiero que muestre eso que quiero saber durante el juego.
 
-#### Requerimientos no funcionales
+## Requerimientos no funcionales
 
 No se enfocan en un característica de funcionalidad o comportamiento, ya que estan orientados a tiempos de respuesta, disponibilidad, seguridad, usabilidad, etc.
 
