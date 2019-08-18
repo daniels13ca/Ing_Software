@@ -23,7 +23,7 @@ Imagen Sprint
 
 * **Product backlog**: Consiste en una lista priorizada (por el valor que agregan al producto) de los requisitos del cliente respecto al producto final.
 
-Se puede expresar mediante "Tarjetas de historia de usuario"
+  Se puede expresar mediante "Tarjetas de historia de usuario"
 
 Tarjeta de historia
 
