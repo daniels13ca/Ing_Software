@@ -11,7 +11,7 @@ Algunos de sus principios básicos son:
 
 * **Sprint**: De esta forma se denomina cada una de las iteraciones sobre el proyecto.
 
-Imagen Sprint
+![Sprint](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Sprint")
 
 ## Roles en SCRUM
 
@@ -25,15 +25,19 @@ Imagen Sprint
 
   Se puede expresar mediante "Tarjetas de historia de usuario"
 
-Tarjeta de historia
+![Tarjeta de historia de usuario](https://github.com/daniels13ca/Ing_Software/blob/master/images/Tarjeta_historia.jpg "Tarjeta de historia de usuario")
+
+![Tablero de tareas](https://github.com/daniels13ca/Ing_Software/blob/master/images/scrum-taskboard-seccion.jpg "Tablero de tareas")
 
 * **Sprint backlog**: Es un subcojunto de las tareas del Product Backlog, deben ser seleccionadas teniendo en cuenta la duración del Srpint, la priorización y la capacidad del equipo.
 
-Imagenes Sprint backlog
+![Sprint backlog](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint_backlog.gif "Sprint backlog")
 
 * **Burn Down Chart**: Son gráficos que permiten ver la velocidad a la que se estan cumpliendo los objetivos y de esta forma evaluar si se van a cumplir las metas del sprint/proyecto.
 
-Imagenes burn down
+![Burn Down Chart 1](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint_backlog.gif "Burn Down Chart 1")
+
+![Burn Down Chart 2](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint_backlog.gif "Burn Down Chart 2")
 
 
 
