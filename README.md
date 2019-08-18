@@ -23,13 +23,11 @@ silvdaniel@gmail.com
 
 [4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
 
-[5. Diagrama de Gantt](https://github.com/daniels13ca/Ing_Software)
+[5. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
 
 [6. Gestión de Riesgos](https://github.com/daniels13ca/Ing_Software)
 
-[7. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
-
-[8. Pruebas](https://github.com/daniels13ca/Ing_Software)
+[7. Pruebas](https://github.com/daniels13ca/Ing_Software)
 
 ### Bibliografía
 
