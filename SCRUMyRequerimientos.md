@@ -43,7 +43,7 @@ Algunos de sus principios básicos son:
 
 Al definir *historia de usuario*, se debe garantizar que esta cumpla con algunas características que la hagan valida y viable en el proyecto: 
 
-![Criterios S.M.A.R.T.](https://github.com/daniels13ca/Ing_Software/blob/master/images/burndown1.gif "Criterios S.M.A.R.T.")
+![Criterios S.M.A.R.T.](https://github.com/daniels13ca/Ing_Software/blob/master/images/SMART.jpg "Criterios S.M.A.R.T.")
 
 Posteriormente se puede clasificar en:
 
@@ -58,15 +58,16 @@ Describen un comportamiento o función que debe cumplir el software, suelen esta
 * Definición de quien puede ingresar datos en el sistema.
 
 **Requeriemiento bien formulado**: El juego debe mostrar en pantalla la cantidad de puntos que ha conseguido el jugador mientras la partida este en curso.
-**Requeriemiento mal formulado**: Quiero que muestre eso que quiero saber durante el juego
+
+**Requeriemiento mal formulado**: Quiero que muestre eso que quiero saber durante el juego.
 
 #### Requerimientos no funcionales
 
 No se enfocan en un característica de funcionalidad o comportamiento, ya que estan orientados a tiempos de respuesta, disponibilidad, seguridad, usabilidad, etc.
 
-**Requeriemiento bien formulado**: El servidor del juego debe estar disponible por lo menos el 99.9% del tiempo, tomando como unidad temportal una semana
-**Requeriemiento mal formulado**: Quiero poder jugar a cualquier hora
+**Requeriemiento bien formulado**: El servidor del juego debe estar disponible por lo menos el 99.9% del tiempo, tomando como unidad temportal una semana.
 
+**Requeriemiento mal formulado**: Quiero poder jugar a cualquier hora.
 
 ##### Tarea
 
