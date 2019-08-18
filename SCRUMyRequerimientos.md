@@ -35,9 +35,11 @@ Algunos de sus principios básicos son:
 
 * **Burn Down Chart**: Son gráficos que permiten ver la velocidad a la que se estan cumpliendo los objetivos y de esta forma evaluar si se van a cumplir las metas del sprint/proyecto.
 
-![Burn Down Chart 1](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint_backlog.gif "Burn Down Chart 1")
+![Burn Down Chart 1](https://github.com/daniels13ca/Ing_Software/blob/master/images/burndown1.gif "Burn Down Chart 1")
 
-![Burn Down Chart 2](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint_backlog.gif "Burn Down Chart 2")
+![Burn Down Chart 2](https://github.com/daniels13ca/Ing_Software/blob/master/images/burndown2.gif "Burn Down Chart 2")
+
+# Análisis de requerimientos
 
 
 

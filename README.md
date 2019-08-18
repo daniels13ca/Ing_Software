@@ -12,8 +12,12 @@ silvdaniel@gmail.com
 * ¿Qué es ingeniería de software?
 * Proyecto del curso  
 
-[2. SCRUM y Requerimientos](https://github.com/daniels13ca/Ing_Software)
-* Prototipado en papel
+[2. SCRUM y Requerimientos](https://github.com/daniels13ca/Ing_Software/blob/master/SCRUMyRequerimientos.md)
+* Scrum
+  * Principios básicos de Scrum
+  * Roles en Scrum
+  * Documentos/herramientas básicas
+* Requerimientos
 
 [3. Casos de uso](https://github.com/daniels13ca/Ing_Software)
 
