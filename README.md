@@ -17,7 +17,7 @@ silvdaniel@gmail.com
   * Principios básicos de Scrum
   * Roles en Scrum
   * Documentos/herramientas básicas
-* Requerimientos
+* Análisis de Requerimientos
 
 [3. Casos de uso](https://github.com/daniels13ca/Ing_Software)
 
