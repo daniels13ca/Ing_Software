@@ -29,7 +29,7 @@ Algunos de sus principios básicos son:
 
 ![Tablero de tareas](https://github.com/daniels13ca/Ing_Software/blob/master/images/scrum-taskboard-seccion.jpg "Tablero de tareas")
 
-* **Sprint backlog**: Es un subcojunto de las tareas del Product Backlog, deben ser seleccionadas teniendo en cuenta la duración del Srpint, la priorización y la capacidad del equipo.
+* **Sprint backlog**: Es un subcojunto de las tareas del Product Backlog, deben ser seleccionadas teniendo en cuenta la duración del Sprint, la priorización y la capacidad del equipo.
 
 ![Sprint backlog](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint_backlog.gif "Sprint backlog")
 
