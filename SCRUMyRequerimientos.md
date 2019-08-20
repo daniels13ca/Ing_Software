@@ -77,3 +77,16 @@ No se enfocan en un característica de funcionalidad o comportamiento, ya que es
 
 *Nota*: Pueden utilizar la herramienta que deseen, se dan puntos adicionales si es una herramienta web colaborativa.
 
+### Proyecto (06 de Septiembre)
+
+**Exposición (20%)**:
+* E.T. the Extra-Terrestrial (1982)
+* No Man´s Sky (2016)
+* Star Wars Battlefront II (2017): Yezael Castillo
+* Anthem (2019): Lina Gonzalez
+* Sonic The Hedgebog (¿2020?)
+
+**Backlog* (50%)**: Presentar el backlog del proyecto, incluyendo todos los soportes que permitieron definirlo (dibujos, diagramas, etc.).
+
+**Sprint 1 (30%)**: Mostrar el avance del Sprint 1 y las herramientas utilizadas.
+
