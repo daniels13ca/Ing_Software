@@ -20,6 +20,8 @@ silvdaniel@gmail.com
 * Análisis de Requerimientos
 
 [3. Casos de uso](https://github.com/daniels13ca/Ing_Software/blob/master/CasosdeUso.md)
+* Descripción
+* Diagrama de casos de uso
 
 [4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
 
