@@ -13,6 +13,7 @@ Se enfocan en los requerimientos funcionales y son una muy buena aproximación p
 * Se debe intentar que todos los casos de uso estén descritos al mismo nivel de detalle.
 
 ![Ejemplo caso de uso](https://github.com/daniels13ca/Ing_Software/blob/master/images/EjemploCasosdeUso.png "Ejemplo caso de uso")
+
 *Fuente: http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416*
 
 ## Diagrama de casos de uso
