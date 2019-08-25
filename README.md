@@ -19,7 +19,7 @@ silvdaniel@gmail.com
   * Documentos/herramientas básicas
 * Análisis de Requerimientos
 
-[3. Casos de uso](https://github.com/daniels13ca/Ing_Software)
+[3. Casos de uso](https://github.com/daniels13ca/Ing_Software/blob/master/CasosdeUso.md)
 
 [4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
 

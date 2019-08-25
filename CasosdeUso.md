@@ -41,6 +41,30 @@ Se va a diseñar el sistema que controla una máquina recicladora de botellas, t
 		* Un artículo se atora
 		* No hay más papel
 
+**Solución**:
+
+Para comenzar se identifican los actores que interactuan con el sistema:
+
+![Casos de uso 1](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 1")
+
+Luego, cada una de las interacciones individuales que realizan los actores:
+
+![Casos de uso 2](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 2")
+
+Observamos que existen diferentes tipos de artículos a reciclar:
+
+![Casos de uso 3](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 3")
+
+Ahora, para el caso de la impresión de recibos se puede dar a petición del operador o luego de terminar una transacción:
+
+![Casos de uso 4](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 4")
+
+Al integrar todos estos elementos, el diagrama completo es el siguiente:
+
+![Casos de uso 5](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 5")
+
+Observemos los diferentes tipos de relaciones que existen en el diagrama.
+
 ##### Tarea
 
 Documentar los casos de uso con sus respectivos diagramas para los dos requerimientos funcionales más importantes según su priorización.
