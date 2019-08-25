@@ -12,7 +12,7 @@ Se enfocan en los requerimientos funcionales y son una muy buena aproximación p
 * La invocación de unos casos de uso desde otros casos de uso (lo que se conoce como inclusión, o extensión si es condicional, en UML), sólo debe usarse como un mecanismo para evitar repetir una determinada secuencia de pasos que se repite en varios casos de uso. Nunca debe usarse para expresar posibles menús de la interfaz de usuario.
 * Se debe intentar que todos los casos de uso estén descritos al mismo nivel de detalle.
 
-![Ejemplo caso de uso](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Ejemplo caso de uso")
+![Ejemplo caso de uso](https://github.com/daniels13ca/Ing_Software/blob/master/images/EjemploCasosdeUso.png "Ejemplo caso de uso")
 *Fuente: http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416*
 
 ## Diagrama de casos de uso
