@@ -45,23 +45,23 @@ Se va a diseñar el sistema que controla una máquina recicladora de botellas, t
 
 Para comenzar se identifican los actores que interactuan con el sistema:
 
-![Casos de uso 1](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 1")
+![Casos de uso 1](https://github.com/daniels13ca/Ing_Software/blob/master/images/CasosdeUso1.jpg "Casos de uso 1")
 
 Luego, cada una de las interacciones individuales que realizan los actores:
 
-![Casos de uso 2](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 2")
+![Casos de uso 2](https://github.com/daniels13ca/Ing_Software/blob/master/images/CasosdeUso2.jpg "Casos de uso 2")
 
 Observamos que existen diferentes tipos de artículos a reciclar:
 
-![Casos de uso 3](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 3")
+![Casos de uso 3](https://github.com/daniels13ca/Ing_Software/blob/master/images/CasosdeUso3.jpg "Casos de uso 3")
 
 Ahora, para el caso de la impresión de recibos se puede dar a petición del operador o luego de terminar una transacción:
 
-![Casos de uso 4](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 4")
+![Casos de uso 4](https://github.com/daniels13ca/Ing_Software/blob/master/images/CasosdeUso4.jpg "Casos de uso 4")
 
 Al integrar todos estos elementos, el diagrama completo es el siguiente:
 
-![Casos de uso 5](https://github.com/daniels13ca/Ing_Software/blob/master/images/Sprint.png "Casos de uso 5")
+![Casos de uso 5](https://github.com/daniels13ca/Ing_Software/blob/master/images/CasosdeUso5.jpg "Casos de uso 5")
 
 Observemos los diferentes tipos de relaciones que existen en el diagrama.
 
