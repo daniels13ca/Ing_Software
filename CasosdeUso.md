@@ -24,7 +24,7 @@ Se enfocan en los requerimientos funcionales y son una muy buena aproximación p
 * Caso de uso
 * Relaciones de uso, herencia y comunicación
 
-**Ejemplo**: Máquina Recicladores *(Fuente: http://stadium.unad.edu.co/ovas/10596_9839/diagramas_de_casos_de_uso.html)*
+**Ejemplo**: Máquina Recicladora *(Fuente: http://stadium.unad.edu.co/ovas/10596_9839/diagramas_de_casos_de_uso.html)*
 
 Se va a diseñar el sistema que controla una máquina recicladora de botellas, tarros y jabas (canastas plásticas), cuyo funcionamiento es el siguiente:
 
