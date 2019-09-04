@@ -2,8 +2,6 @@
 
 ## ¿Qué es un diagrama de flujo?
 
-https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3
-
 Es un diagrma que muestra paso a paso la progesión de un procedimiento o sistema, esta compuesto por líneas de conexión y un conjunto de símbolos estándar.
 
 Sirve para descomponer procesos complejos, en pequeñas etapas que se expresan visuamente.
