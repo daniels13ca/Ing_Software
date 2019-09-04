@@ -23,7 +23,14 @@ silvdaniel@gmail.com
 * Descripción
 * Diagrama de casos de uso
 
-[4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software)
+[4. Diagrama de flujo](https://github.com/daniels13ca/Ing_Software/blob/master/DiagramasFlujo.md)
+
+* ¿Qué es un diagrama de flujo?
+* Símbolos básicos
+ * Óvalo
+ * Rectángulo
+ * Flecha
+ * Diamante
 
 [5. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
 
