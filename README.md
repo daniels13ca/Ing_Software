@@ -27,10 +27,10 @@ silvdaniel@gmail.com
 
 * ¿Qué es un diagrama de flujo?
 * Símbolos básicos
- * Óvalo
- * Rectángulo
- * Flecha
- * Diamante
+  * Óvalo
+  * Rectángulo
+  * Flecha
+  * Diamante
 
 [5. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
 
