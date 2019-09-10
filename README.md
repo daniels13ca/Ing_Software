@@ -32,7 +32,12 @@ silvdaniel@gmail.com
   * Flecha
   * Diamante
 
-[5. Diagrama de clases](https://github.com/daniels13ca/Ing_Software)
+[5. Diagrama de clases](https://github.com/daniels13ca/Ing_Software/blob/master/DiagramasClase.md)
+* ¿Qué es un diagrama de clases?
+* Beneficios
+* Clase
+* Modificadores de acceso a atributos
+* Interacciones
 
 [6. Gestión de Riesgos](https://github.com/daniels13ca/Ing_Software)
 
