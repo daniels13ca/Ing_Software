@@ -62,7 +62,7 @@ Como ejemplo, en tu viaje por Arizona, podrías encontrarte con una trampa de ve
 
 ### Ejemplo:
 
-*** Diagrama de clases para un sistema de cajero automático ATM ***
+** Diagrama de clases para un sistema de cajero automático ATM **
 
 Los ATM son aparentemente simples. Aunque los clientes solo necesitan oprimir algunos botones para recibir efectivo, hay muchas capas de seguridad que un ATM seguro y efectivo debe pasar para evitar fraude y brindar valor a los clientes bancarios. Las diversas partes humanas e inanimadas de un sistema de ATM son ilustradas por este diagrama sencillo de leer. Cada clase tiene su título y los atributos se detallan debajo. 
 
