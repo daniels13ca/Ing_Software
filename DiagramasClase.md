@@ -22,7 +22,7 @@ El UML se estableció como un modelo estandarizado para describir un enfoque de 
 
 ## Clase
 
-![Clase 1]()
+![Clase 1](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Clase1.JPG)
 
 **Sección superior:** Contiene el nombre de la clase. Esta sección siempre es necesaria, ya sea que estés hablando del clasificador o de un objeto.
 
@@ -44,19 +44,19 @@ El término "interacciones" se refiere a múltiples relaciones y enlaces que pue
 
 **Herencia:** El proceso en el que una subclase o clase derivada recibe la funcionalidad de una superclase o clase principal, también se conoce como "generalización". Se simboliza mediante una línea de conexión recta con una punta de flecha cerrada que señala a la superclase.
 
-![Clase 2]()
+![Clase 2](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Clase2.png)
 
 En este ejemplo, el objeto "Auto" heredaría todos los atributos (velocidad, números de pasajeros, combustible) y los métodos (arrancar(), frenar(), cambiarDirección()) de la clase principal ("Vehículo"), además de los atributos específicos (tipo de modelo, número de puertas, fabricante del auto) y métodos de su propia clase (Radio(), limpiaparabrisas(), aireacondicionado/calefacción()). La herencia se muestra en un diagrama de clases por medio de una línea continua con una flecha cerrada y vacía.
 
 **Asociación bidireccional:** La relación predeterminada entre dos clases. Ambas clases están conscientes una de la otra y de la relación que tienen entre sí. Esta asociación se representa mediante una línea recta entre dos clases.
 
-![Clase 3]()
+![Clase 3](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Clase3.png)
 
 En el ejemplo anterior, la clase Auto y la clase Viaje están interrelacionadas. En un extremo de la línea, el Auto recibe la asociación de "autoAsignado" con el valor de multiplicidad de 0..1, de modo que cuando la instancia de Viaje existe, puede tener una instancia de Auto asociada a ella o no tener instancias de Autos asociadas a ella. En este caso, una clase CasaRodante separada con un valor de multiplicidad de 0..* es necesaria para demostrar que un Viaje puede tener múltiples instancias de Autos asociadas a ella. Dado que una instancia de Auto podría tener múltiples asociaciones "iniciarViaje", en otras palabras, un auto podría realizar múltiples viajes, el valor de multiplicidad se establece en 0..*
 
 **Asociación unidireccional:** Una relación un poco menos común entre dos clases. Una clase está consciente de la otra e interactúa con ella. La asociación unidireccional se dibuja con una línea de conexión recta que señala una punta de flecha abierta desde la clase "knowing" a la clase "known".
 
-![Clase 4]()
+![Clase 4](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Clase4.png)
 
 Como ejemplo, en tu viaje por Arizona, podrías encontrarte con una trampa de velocidad donde un radar de tráfico registra la velocidad a la que conducías, pero no lo sabrás hasta que recibas la notificación por correo. Esto no está dibujado en la imagen, pero en este caso, el valor de multiplicidad sería 0..* en función de cuántas veces hayas conducido frente al radar de tráfico.
 
@@ -66,7 +66,7 @@ Como ejemplo, en tu viaje por Arizona, podrías encontrarte con una trampa de ve
 
 Los ATM son aparentemente simples. Aunque los clientes solo necesitan oprimir algunos botones para recibir efectivo, hay muchas capas de seguridad que un ATM seguro y efectivo debe pasar para evitar fraude y brindar valor a los clientes bancarios. Las diversas partes humanas e inanimadas de un sistema de ATM son ilustradas por este diagrama sencillo de leer. Cada clase tiene su título y los atributos se detallan debajo. 
 
-![Clase 5]()
+![Clase 5](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Clase1.png)
 
 *Fuentes*:
 
