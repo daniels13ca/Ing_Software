@@ -39,7 +39,9 @@ silvdaniel@gmail.com
 * Modificadores de acceso a atributos
 * Interacciones
 
-[6. Gestión de Riesgos](https://github.com/daniels13ca/Ing_Software)
+[6. Gestión de Riesgos](https://github.com/daniels13ca/Ing_Software/blob/master/Gesti%C3%B3n%20de%20riesgos.md)
+* Tipos de riesgos
+* Matriz de riesgos
 
 [7. Pruebas](https://github.com/daniels13ca/Ing_Software)
 
