@@ -52,15 +52,15 @@ Los riesgos de esta categoría corresponden a bugs no detectados y que perduran 
 
 ## Matriz de probabilidad
 
-![Pruebas1]()
+![Pruebas1](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Pruebas1.jpg)
 
 ## Matriz de consecuencias
 
-![Pruebas2]()
+![Pruebas2](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Pruebas2.jpg)
 
 ## Mapeo de riesgos
 
-![Pruebas3]()
+![Pruebas3](https://raw.githubusercontent.com/daniels13ca/Ing_Software/master/images/Pruebas3.jpg)
 
 **Fuente:** [Diseñar una matriz de riesgos](http://blogs.portafolio.co/buenas-practicas-de-auditoria-y-control-interno-en-las-organizaciones/disenar-una-matriz-riesgos/)
 
