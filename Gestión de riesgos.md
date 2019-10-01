@@ -48,6 +48,24 @@ Los riesgos de esta categoría corresponden a bugs no detectados y que perduran 
 
 ***Nota:*** El impacto y la probabilidad de que se presenten estos riesgos son proporcionales al tamaño y complejidad del proyecto. Los riesgos nunca se pueden eliminar por completo por lo tanto es importante contar con estrategias para prevenir, detectar y corregir los efectos que causan estos riesgos al materializarse.
 
+# Matriz de riesgos
 
-http://blogs.portafolio.co/buenas-practicas-de-auditoria-y-control-interno-en-las-organizaciones/disenar-una-matriz-riesgos/
+## Matriz de probabilidad
+
+![Pruebas1]()
+
+## Matriz de consecuencias
+
+![Pruebas2]()
+
+## Mapeo de riesgos
+
+![Pruebas3]()
+
+**Fuente:** [Diseñar una matriz de riesgos](http://blogs.portafolio.co/buenas-practicas-de-auditoria-y-control-interno-en-las-organizaciones/disenar-una-matriz-riesgos/)
+
+**Tarea:** Elaborar la matriz de riesgos por lo menos para 5 riesgos detectados en su proyecto
+
+
+
 
