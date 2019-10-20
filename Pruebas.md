@@ -28,7 +28,7 @@ Se diseñan y ejecutan para probar los requerimientos funcionales del sistema, e
 
  Su objetivo es la verificación de un parámetro que  evalue la operación de un sistema (los que se definieron en los requerimientos no funcionales): disponibilidad, usabilidad, seguridad, rendimiento.
 
- [Formato plan de pruebas]()
+ [Formato plan de pruebas](https://github.com/daniels13ca/Ing_Software/blob/master/Bibliograf%C3%ADa/Template%20for%20testing.xlsx)
 
  *Tarea:* Diseñar y ejecutar un plan de pruebas por lo menos para 10 casos de prueba
 
