@@ -43,7 +43,14 @@ silvdaniel@gmail.com
 * Tipos de riesgos
 * Matriz de riesgos
 
-[7. Pruebas](https://github.com/daniels13ca/Ing_Software)
+[7. Pruebas](https://github.com/daniels13ca/Ing_Software/blob/master/Pruebas.md)
+* Enfoque de las pruebas
+  * Caja blanca
+  * Caja negra
+* Clasificación de las pruebas
+  * Pruebas funcionales
+  * Pruebas no funcionales  
+
 
 ### Bibliografía
 
